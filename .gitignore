@@ -3,3 +3,5 @@
 Life/obj/
 Life/bin/
 .gitignore
+Life.Tests/obj/
+Life.Tests/bin/
